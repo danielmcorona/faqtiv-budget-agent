@@ -1,0 +1,7 @@
+runtime: javascript
+auto_add_examples: true
+modules:
+  - name: mongodb
+    alias: mongodb
+task_examples:
+  - month-expenses
